@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.0" type="plugin" group="content" method="upgrade">
+	<name>Table 2 Grid</name>
+	<author>Preflight</author>
+	<creationDate>Sept 22, 2017</creationDate>
+	<version>1.0</version>
+	<description>Replace html table with responsive grid.</description>
+	<files>
+		<filename plugin="table2grid">table2grid.php</filename>
+		<filename>table2grid.css</filename>
+		<filename>index.html</filename>
+	</files>
+</extension>
